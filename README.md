@@ -1,1 +1,0 @@
-# splunk_bruteforce_investigation
