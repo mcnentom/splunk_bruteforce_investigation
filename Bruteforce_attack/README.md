@@ -11,7 +11,9 @@ After data ingestion:
 
 Confirm the data is there by clicking search and and reporting then type the command:
 
-``index=main sourcetype=csv``
+```spl
+index=main sourcetype=csv
+```
 
 Output:
 ![confirmation](./images/findingData.png)
