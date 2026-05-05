@@ -4,7 +4,7 @@ The scenario running through all 7 stages is this: IP 185.220.101.5 brute-forced
 
 [Download dataset used](./Data/splunkdata.csv)
 
-[View Raw Data](https://raw.githubusercontent.com/yourrepo/data/logs.csv)
+[View Raw Data](https://raw.githubusercontent.com/mcnentom/splunk_usage/refs/heads/main/Bruteforce_attack/Data/splunkdata.csv)
 
 ![Overview](./images/Screenshot%20From%202026-05-04%2015-17-11.png)
 
